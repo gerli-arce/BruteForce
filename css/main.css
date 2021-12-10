@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+.container{
+    background-color: black;
+}
+.container h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+.container div label{
+    color: blanchedalmond
+}
